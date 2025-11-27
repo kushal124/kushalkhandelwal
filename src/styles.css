@@ -150,6 +150,22 @@ footer {
     font-size: 0.875rem;
 }
 
+.social-icons {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+}
+
+.social-icons a {
+    color: #666;
+    transition: color 0.2s;
+}
+
+.social-icons a:hover {
+    color: var(--blue);
+    text-decoration: none;
+}
+
 /* Back link */
 .back-link {
     display: inline-block;
