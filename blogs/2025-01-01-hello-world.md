@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2025-01-01
+date: "2025-01-01"
 excerpt: My first blog post.
 ---
 
